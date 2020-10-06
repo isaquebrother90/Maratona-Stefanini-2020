@@ -9,11 +9,11 @@ Funcionalidade, lógica, implementação da interface e design, interação: DIN
 
 ## UI
 Como o usuário interage com o produto
-PARTE FÍSICA
+       PARTE FÍSICA
 
 ## UX
 Qual é o sentimento que o usuário leva dessa interação
-PARTE EMOCIONAL
+       PARTE EMOCIONAL
 
 ## Aplicações WEB
 São sistemas projetados para utilização através de um navegador, através da internet ou aplicativos desenvolvidos utilizando tecnologias web. Pode ser executado a partir de um servidor, localmente e/ou no dispositivo do usuário.
